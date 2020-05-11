@@ -1,0 +1,23 @@
+body{
+  height: 200px;
+  background-image: url("../img/image2.png");
+}
+.container {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.border{
+  border: 1px solid white;
+  border-color: white;
+  width: 300px;
+  border-radius: 30px;
+  text-align: center;
+  color: black;
+  background-color: white;
+  justify-content: center;
+}
+#text{
+  background-color: white;
+}
